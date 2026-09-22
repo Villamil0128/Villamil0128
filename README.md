@@ -1,176 +1,345 @@
-```markdown
-<div align="center">
-  <a href="https://www.nexusdigitalsolutions.group/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+C%C3%A9sar+Villamil+%F0%9F%91%8B;Software+%26+Full-Stack+Developer+%F0%9F%92%BB;Automation+%26+Digital+Solutions+%E2%9A%99%EF%B8%8F;AI+%26+Cloud+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>Construyendo sistemas, automatizaciones y soluciones digitales para resolver problemas reales.</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://www.nexusdigitalsolutions.group/"><img src="https://img.shields.io/badge/Nexus_Digital_Solutions-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Nexus Digital Solutions" /></a>
-    <a href="https://linkedin.com/in/Villamil0128"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contacto@nexusdigitalsolutions.group"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Ubicación-Panamá_🇵🇦-00529B?style=for-the-badge" alt="Panamá" />
-  </p>
-</div>
-
----
-
-### 🚀 Sobre mí
-
-```yaml
-perfil:
-  nombre: César Villamil
-  usuario_github: Villamil0128
-  rol: Full-Stack Developer & Soluciones Digitales
-  proyecto_actual: Nexus Digital Solutions
-  formacion: Licenciatura en Sistemas y Programación (UMECIT — Panamá)
-  enfoque: Automatización de procesos, arquitectura de software e integración de IA
-  mentalidad: "La tecnología debe resolver problemas reales, no crear más procesos."
-```
-
-* 🔭 Actualmente enfocado en **aplicaciones web full-stack, sistemas empresariales y automatización**.
-* 🧠 Desarrollando proyectos con **modelos de lenguaje locales (Ollama), microservicios y despliegues con Docker**.
-* 💼 Impulsando **Nexus Digital Solutions** (soluciones tecnológicas y digitalización para empresas y PyMEs).
-* ⚙️ Apasionado por la ciberseguridad, infraestructura Linux y optimización de flujos operativos.
-
----
-
-### 🛠️ Stack Tecnológico
+# 👋 Hola, soy César Villamil
 
 <div align="center">
 
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend & Web** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/-Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Especialidades** | ![Scriptcase](https://img.shields.io/badge/-Scriptcase-E84E1B?style=flat-square) ![Ollama](https://img.shields.io/badge/-Ollama_AI-412991?style=flat-square&logo=openai&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square) ![Tunnels](https://img.shields.io/badge/-Cloudflare_Tunnels-F38020?style=flat-square) |
+### 💻 Software Developer | Full-Stack Developer | Automation & Digital Solutions
+
+**Construyendo sistemas, automatizaciones y soluciones digitales para resolver problemas reales.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Villamil0128)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nexusdigitalsolutions.group/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexusdigitalsolutions.pa@gmail.com)
 
 </div>
 
 ---
 
-### 🧩 Proyectos Destacados
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/user.svg" width="22" height="22"/> Sobre mí
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://www.nexusdigitalsolutions.group/">Nexus Digital Solutions</a></h3>
-      <p>Consultoría y desarrollo tecnológico orientada a la digitalización e innovación operativa de empresas y PyMEs.</p>
-      <ul>
-        <li>Desarrollo de sistemas empresariales a la medida y ERPs.</li>
-        <li>Automatización de procesos e integración de APIs.</li>
-        <li>Chatbots con IA y dashboards ejecutivos de toma de decisiones.</li>
-      </ul>
-      <p><code>#SistemasEmpresariales</code> <code>#FullStack</code> <code>#SolucionesB2B</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Nexus Sentinel</h3>
-      <p>Plataforma para <strong>compliance, verificación continua y auditoría</strong> de datos para sectores regulados.</p>
-      <ul>
-        <li>Importación masiva y análisis (Excel, CSV, XML, DBs).</li>
-        <li>Validación contra fuentes públicas y detección de anomalías.</li>
-        <li>Integración con IA para reportes predictivos y de cumplimiento.</li>
-      </ul>
-      <p><code>#Auditoría</code> <code>#Compliance</code> <code>#DataValidation</code></p>
-    </td>
-  </tr>
-</table>
+Soy **desarrollador de software y estudiante de Licenciatura en Sistemas y Programación**, enfocado en el desarrollo de soluciones tecnológicas para empresas y proyectos independientes.
 
-<details>
-<summary>🔍 <strong>Ver más sobre: Nexus Deploy Core (Plataforma de Despliegue)</strong></summary>
-<br>
+Me gusta trabajar en proyectos donde la tecnología no solamente sea código, sino una herramienta para **automatizar procesos, mejorar operaciones y solucionar problemas concretos**.
 
-Plataforma en desarrollo para simplificar y orquestar el despliegue de aplicaciones web en servidores Linux de manera centralizada.
+Actualmente trabajo principalmente con aplicaciones web, sistemas empresariales, bases de datos, APIs, automatización, servidores y herramientas de inteligencia artificial.
+
+También estoy desarrollando proyectos propios orientados a crear soluciones digitales para pequeñas y medianas empresas.
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/wrench.svg" width="22" height="22"/> ¿Qué hago?
+
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/building.svg" width="16" height="16"/> Desarrollo de sistemas empresariales
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/globe.svg" width="16" height="16"/> Desarrollo de aplicaciones web
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="16" height="16"/> Dashboards y sistemas de reportes
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/gears.svg" width="16" height="16"/> Automatización de procesos
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/plug.svg" width="16" height="16"/> Integración y desarrollo de APIs
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/database.svg" width="16" height="16"/> Diseño y administración de bases de datos
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="16" height="16"/> Integración de Inteligencia Artificial
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/comments.svg" width="16" height="16"/> Desarrollo de chatbots
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/server.svg" width="16" height="16"/> Administración y despliegue de servidores
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="16" height="16"/> VPS, Linux y servicios web
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="16" height="16"/> Desarrollo orientado a seguridad
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/smartphone.svg" width="16" height="16"/> Desarrollo de aplicaciones y soluciones digitales
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="16" height="16"/> Integración de sistemas existentes
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/code.svg" width="22" height="22"/> Tecnologías
+
+### Lenguajes
+
+![Lenguajes](https://skillicons.dev/icons?i=php,js,py,cs)
+
+### Desarrollo Web
+
+![Desarrollo Web](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs)
+
+### Bases de datos
+
+![Bases de datos](https://skillicons.dev/icons?i=mysql,mariadb,postgres,firebase)
+
+### Herramientas & DevOps
+
+![Herramientas & DevOps](https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker)
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/brain.svg" width="22" height="22"/> Áreas de interés
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="18" height="18"/> Inteligencia Artificial
+
+* Integración de modelos de IA
+* Chatbots
+* Automatización mediante IA
+* Herramientas de asistencia para programación
+* Modelos locales
+* Ollama
+* Aplicaciones empresariales con IA
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="18" height="18"/> Ciberseguridad
+
+* Seguridad de aplicaciones web
+* APIs y autenticación
+* Análisis de vulnerabilidades
+* Automatización de verificaciones
+* OSINT
+* Seguridad de servidores
+* Laboratorios de seguridad
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="18" height="18"/> Infraestructura
+
+* Ubuntu Server
+* VPS
+* Deployment de aplicaciones
+* Cloudflare
+* Cloudflare Tunnel
+* Gestión de dominios
+* Servidores web
+* Automatización de despliegues
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="22" height="22"/> Proyectos
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="18" height="18"/> Nexus Digital Solutions
+
+Proyecto empresarial enfocado en ofrecer soluciones tecnológicas para empresas.
+
+**Servicios y soluciones:**
+
+* Desarrollo de software
+* Sistemas empresariales
+* Aplicaciones web
+* Sitios corporativos
+* Automatización de procesos
+* Chatbots
+* Dashboards
+* Integración de APIs
+* Implementación de servidores
+* Licenciamiento de software
+* Soluciones personalizadas
+
+**Objetivo:** ayudar a empresas a digitalizar procesos y utilizar la tecnología para mejorar sus operaciones.
+
+---
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/gears.svg" width="18" height="18"/> Nexus Deploy Core
+
+Plataforma en desarrollo para simplificar el despliegue de aplicaciones web en servidores.
+
+La idea es permitir que un proyecto pueda ser desplegado y administrado de forma sencilla desde una interfaz centralizada.
+
+**Conceptos:**
 
 ```text
-  [ GitHub / Repo Local ]
-             │
-             ▼
-    [ Nexus Deploy Core ]  ──►  (Build / Variables / Puertos)
-             │
-             ▼
-    [ Servidor Ubuntu / Docker ]
-             │
-             ▼
- [ Cloudflare Tunnel / SSL ] ──► [ Dominio Producción ]
+GitHub / Proyecto
+       ↓
+Nexus Deploy Core
+       ↓
+Build / Deploy
+       ↓
+Servidor Ubuntu
+       ↓
+Aplicación Web
+       ↓
+Cloudflare
+       ↓
+Dominio
 ```
 
-* **Características:** Zero-friction deployment, gestión de logs y alertas en vivo, túneles seguros sin abrir puertos públicos, control de dominios y entorno.
-</details>
+**Características previstas:**
+
+* Deployment desde GitHub
+* Deployment desde proyectos locales
+* Gestión de aplicaciones
+* Configuración de puertos
+* Gestión de archivos
+* Variables de entorno
+* Monitoreo
+* Gestión de dominios
+* Cloudflare Tunnel
+* Logs
+* Alertas
+* Seguridad
 
 ---
 
-### 💼 Experiencia en Sistemas Empresariales & Financieros
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/shield-halved.svg" width="18" height="18"/> Nexus Sentinel
 
-He participado activamente en el diseño, desarrollo, migración y mantenimiento de aplicaciones de misión crítica:
+Concepto de plataforma orientada a procesos de **compliance, verificación y análisis de información**.
+
+El sistema está pensado para permitir a empresas realizar procesos de revisión utilizando diferentes fuentes de información.
+
+**Conceptos principales:**
+
+* Importación de clientes
+* Archivos Excel / CSV / XML
+* Conexión con bases de datos
+* Procesamiento automatizado
+* Verificación de información
+* Coincidencias
+* Generación de reportes
+* Integración de IA
+* Fuentes públicas
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/briefcase.svg" width="22" height="22"/> Experiencia en sistemas empresariales
+
+He trabajado en el desarrollo y mantenimiento de sistemas utilizados para procesos empresariales y financieros.
+
+Entre las áreas en las que he trabajado se encuentran:
+
+* Gestión de préstamos
+* Amortizaciones
+* Cobros
+* Intereses
+* Morosidad
+* Clientes
+* Sucursales
+* Reportes
+* Auditoría
+* Automatización
+* Generación de documentos
+* Procesamiento de información
+* Migración de datos
+* Integración de módulos
+* Sistemas financieros
+
+También he trabajado con **Scriptcase, PHP, MySQL/MariaDB y aplicaciones empresariales**.
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/route.svg" width="22" height="22"/> Mi forma de trabajar
+
+Me interesa especialmente encontrar la relación entre:
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  Módulos Financieros: Préstamos • Amortizaciones • Cobranzas • Mora    │
-│  Operaciones: Sucursales • Auditoría • Generación Automatizada de Docs │
-│  Backbone Técnico: Scriptcase, PHP, Bases de Datos SQL Relacionales    │
-└────────────────────────────────────────────────────────────────────────┘
+Problema
+   ↓
+Análisis
+   ↓
+Diseño de solución
+   ↓
+Desarrollo
+   ↓
+Automatización
+   ↓
+Implementación
+   ↓
+Mantenimiento
 ```
+
+No me enfoco únicamente en desarrollar una aplicación. Busco entender **qué problema existe detrás del requerimiento y cómo puede resolverse mediante tecnología**.
 
 ---
 
-### 🎯 Mi Metodología de Trabajo
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/microscope.svg" width="22" height="22"/> Actualmente aprendiendo
+
+* Advanced JavaScript
+* TypeScript
+* Next.js
+* Node.js
+* Arquitectura de software
+* Docker
+* DevOps
+* APIs REST
+* Inteligencia Artificial
+* Ciberseguridad
+* Cloud infrastructure
+* Automatización
+* Desarrollo de productos SaaS
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/graduation-cap.svg" width="22" height="22"/> Educación
+
+### Licenciatura en Sistemas y Programación
+
+**UMECIT — Panamá**
+
+Actualmente desarrollando conocimientos en:
+
+* Programación
+* Sistemas
+* Bases de datos
+* Redes
+* Desarrollo de software
+* Ingeniería de sistemas
+* Tecnologías web
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="22" height="22"/> GitHub Stats
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A([🔍 Problema]) --> B([📐 Análisis])
-    B --> C([💡 Diseño])
-    C --> D([💻 Desarrollo])
-    D --> E([⚡ Automatización])
-    E --> F([🚀 Despliegue])
-    F --> G([🛠️ Mantenimiento])
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Villamil0128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-> *"No se trata solo de escribir código, sino de entender el impacto real del requerimiento en el negocio."*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villamil0128&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-### 📊 Métricas & Actividad en GitHub
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/fire.svg" width="22" height="22"/> GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Villamil0128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef&icon_color=98c379" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villamil0128&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef" height="165" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Villamil0128&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Villamil0128&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villamil0128&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-### 📬 Conectemos
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-line.svg" width="22" height="22"/> Actividad
 
 <div align="center">
 
-¿Tienes un proyecto en mente, buscas optimizar tus procesos o te interesa colaborar?
-
-[![Nexus Digital Solutions](https://img.shields.io/badge/nexusdigitalsolutions.group-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nexusdigitalsolutions.group/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Villamil0128)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Villamil0128)
-
-<br />
-
-```text
-:)
-```
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Villamil0128&theme=tokyo-night)
 
 </div>
-```
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lightbulb.svg" width="22" height="22"/> Filosofía
+
+> **"La tecnología debe resolver problemas, no crear más procesos."**
+
+Me interesa crear software que sea útil, mantenible y que realmente aporte valor a las personas y empresas que lo utilizan.
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/handshake.svg" width="22" height="22"/> Colaboración
+
+Estoy interesado en colaborar en proyectos relacionados con:
+
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/laptop-code.svg" width="16" height="16"/> Desarrollo de software
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/globe.svg" width="16" height="16"/> Aplicaciones web
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="16" height="16"/> Inteligencia Artificial
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="16" height="16"/> Ciberseguridad
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="16" height="16"/> Cloud & DevOps
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="16" height="16"/> Sistemas empresariales
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="16" height="16"/> Startups tecnológicas
+* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="16" height="16"/> Automatización
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/envelope.svg" width="22" height="22"/> Contacto
+
+<div align="center">
+
+<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/laptop-code.svg" width="18" height="18"/> **Software Development**
+<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="18" height="18"/> **Nexus Digital Solutions**
+<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/map-location-dot.svg" width="18" height="18"/> **Panamá**
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/bolt.svg" width="18" height="18"/> Code. Build. Automate. Improve.
+
+</div>
