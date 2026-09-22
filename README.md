@@ -415,6 +415,6 @@ Estoy interesado en colaborar en proyectos relacionados con:
 
 <div align="center">
 
-### ⚡ Code. Build. Automate. Improve.
+### :)
 
 </div>
