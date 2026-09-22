@@ -15,7 +15,11 @@
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/user.svg" width="22" height="22"/> Sobre mí
+<div align="center">
+
+![Sobre mí](https://img.shields.io/badge/Sobre_mí-2D3250?style=for-the-badge)
+
+</div>
 
 Soy **desarrollador de software y estudiante de Licenciatura en Sistemas y Programación**, enfocado en el desarrollo de soluciones tecnológicas para empresas y proyectos independientes.
 
@@ -27,47 +31,73 @@ También estoy desarrollando proyectos propios orientados a crear soluciones dig
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/wrench.svg" width="22" height="22"/> ¿Qué hago?
+<div align="center">
 
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/building.svg" width="16" height="16"/> Desarrollo de sistemas empresariales
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/globe.svg" width="16" height="16"/> Desarrollo de aplicaciones web
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="16" height="16"/> Dashboards y sistemas de reportes
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/gears.svg" width="16" height="16"/> Automatización de procesos
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/plug.svg" width="16" height="16"/> Integración y desarrollo de APIs
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/database.svg" width="16" height="16"/> Diseño y administración de bases de datos
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="16" height="16"/> Integración de Inteligencia Artificial
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/comments.svg" width="16" height="16"/> Desarrollo de chatbots
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/server.svg" width="16" height="16"/> Administración y despliegue de servidores
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="16" height="16"/> VPS, Linux y servicios web
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="16" height="16"/> Desarrollo orientado a seguridad
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/smartphone.svg" width="16" height="16"/> Desarrollo de aplicaciones y soluciones digitales
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="16" height="16"/> Integración de sistemas existentes
+![Qué hago](https://img.shields.io/badge/Qué_hago-2D3250?style=for-the-badge)
+
+</div>
+
+![Sistemas Empresariales](https://img.shields.io/badge/Sistemas_Empresariales-262B46?style=flat-square)
+![Aplicaciones Web](https://img.shields.io/badge/Aplicaciones_Web-262B46?style=flat-square)
+![Dashboards y Reportes](https://img.shields.io/badge/Dashboards_y_Reportes-262B46?style=flat-square)
+![Automatización](https://img.shields.io/badge/Automatización-262B46?style=flat-square)
+![APIs](https://img.shields.io/badge/Integración_de_APIs-262B46?style=flat-square)
+![Bases de Datos](https://img.shields.io/badge/Bases_de_Datos-262B46?style=flat-square)
+![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-262B46?style=flat-square)
+![Chatbots](https://img.shields.io/badge/Chatbots-262B46?style=flat-square)
+![Servidores](https://img.shields.io/badge/Servidores_Despliegue-262B46?style=flat-square)
+![VPS Linux](https://img.shields.io/badge/VPS_Linux-262B46?style=flat-square)
+![Seguridad](https://img.shields.io/badge/Desarrollo_y_Seguridad-262B46?style=flat-square)
+![Soluciones Digitales](https://img.shields.io/badge/Soluciones_Digitales-262B46?style=flat-square)
+![Integración de Sistemas](https://img.shields.io/badge/Integración_de_Sistemas-262B46?style=flat-square)
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/code.svg" width="22" height="22"/> Tecnologías
+<div align="center">
+
+![Tecnologías](https://img.shields.io/badge/Tecnologías-2D3250?style=for-the-badge)
+
+</div>
 
 ### Lenguajes
 
-![Lenguajes](https://skillicons.dev/icons?i=php,js,py,cs)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Desarrollo Web
 
-![Desarrollo Web](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Bases de datos
 
-![Bases de datos](https://skillicons.dev/icons?i=mysql,mariadb,postgres,firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Herramientas & DevOps
 
-![Herramientas & DevOps](https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/brain.svg" width="22" height="22"/> Áreas de interés
+<div align="center">
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="18" height="18"/> Inteligencia Artificial
+![Áreas de interés](https://img.shields.io/badge/Áreas_de_interés-2D3250?style=for-the-badge)
+
+</div>
+
+### Inteligencia Artificial
 
 * Integración de modelos de IA
 * Chatbots
@@ -77,7 +107,7 @@ También estoy desarrollando proyectos propios orientados a crear soluciones dig
 * Ollama
 * Aplicaciones empresariales con IA
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="18" height="18"/> Ciberseguridad
+### Ciberseguridad
 
 * Seguridad de aplicaciones web
 * APIs y autenticación
@@ -87,7 +117,7 @@ También estoy desarrollando proyectos propios orientados a crear soluciones dig
 * Seguridad de servidores
 * Laboratorios de seguridad
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="18" height="18"/> Infraestructura
+### Infraestructura
 
 * Ubuntu Server
 * VPS
@@ -100,9 +130,13 @@ También estoy desarrollando proyectos propios orientados a crear soluciones dig
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="22" height="22"/> Proyectos
+<div align="center">
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="18" height="18"/> Nexus Digital Solutions
+![Proyectos](https://img.shields.io/badge/Proyectos-2D3250?style=for-the-badge)
+
+</div>
+
+### Nexus Digital Solutions
 
 Proyecto empresarial enfocado en ofrecer soluciones tecnológicas para empresas.
 
@@ -124,7 +158,7 @@ Proyecto empresarial enfocado en ofrecer soluciones tecnológicas para empresas.
 
 ---
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/gears.svg" width="18" height="18"/> Nexus Deploy Core
+### Nexus Deploy Core
 
 Plataforma en desarrollo para simplificar el despliegue de aplicaciones web en servidores.
 
@@ -165,7 +199,7 @@ Dominio
 
 ---
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/shield-halved.svg" width="18" height="18"/> Nexus Sentinel
+### Nexus Sentinel
 
 Concepto de plataforma orientada a procesos de **compliance, verificación y análisis de información**.
 
@@ -185,7 +219,11 @@ El sistema está pensado para permitir a empresas realizar procesos de revisión
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/briefcase.svg" width="22" height="22"/> Experiencia en sistemas empresariales
+<div align="center">
+
+![Experiencia](https://img.shields.io/badge/Experiencia_en_sistemas_empresariales-2D3250?style=for-the-badge)
+
+</div>
 
 He trabajado en el desarrollo y mantenimiento de sistemas utilizados para procesos empresariales y financieros.
 
@@ -211,7 +249,11 @@ También he trabajado con **Scriptcase, PHP, MySQL/MariaDB y aplicaciones empres
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/route.svg" width="22" height="22"/> Mi forma de trabajar
+<div align="center">
+
+![Mi forma de trabajar](https://img.shields.io/badge/Mi_forma_de_trabajar-2D3250?style=for-the-badge)
+
+</div>
 
 Me interesa especialmente encontrar la relación entre:
 
@@ -235,7 +277,11 @@ No me enfoco únicamente en desarrollar una aplicación. Busco entender **qué p
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/microscope.svg" width="22" height="22"/> Actualmente aprendiendo
+<div align="center">
+
+![Aprendiendo](https://img.shields.io/badge/Actualmente_aprendiendo-2D3250?style=for-the-badge)
+
+</div>
 
 * Advanced JavaScript
 * TypeScript
@@ -253,7 +299,11 @@ No me enfoco únicamente en desarrollar una aplicación. Busco entender **qué p
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/graduation-cap.svg" width="22" height="22"/> Educación
+<div align="center">
+
+![Educación](https://img.shields.io/badge/Educación-2D3250?style=for-the-badge)
+
+</div>
 
 ### Licenciatura en Sistemas y Programación
 
@@ -271,7 +321,11 @@ Actualmente desarrollando conocimientos en:
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="22" height="22"/> GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-2D3250?style=for-the-badge)
+
+</div>
 
 <div align="center">
 
@@ -283,7 +337,11 @@ Actualmente desarrollando conocimientos en:
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/fire.svg" width="22" height="22"/> GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-2D3250?style=for-the-badge)
+
+</div>
 
 <div align="center">
 
@@ -293,7 +351,11 @@ Actualmente desarrollando conocimientos en:
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-line.svg" width="22" height="22"/> Actividad
+<div align="center">
+
+![Actividad](https://img.shields.io/badge/Actividad-2D3250?style=for-the-badge)
+
+</div>
 
 <div align="center">
 
@@ -303,7 +365,11 @@ Actualmente desarrollando conocimientos en:
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lightbulb.svg" width="22" height="22"/> Filosofía
+<div align="center">
+
+![Filosofía](https://img.shields.io/badge/Filosofía-2D3250?style=for-the-badge)
+
+</div>
 
 > **"La tecnología debe resolver problemas, no crear más procesos."**
 
@@ -311,28 +377,37 @@ Me interesa crear software que sea útil, mantenible y que realmente aporte valo
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/handshake.svg" width="22" height="22"/> Colaboración
+<div align="center">
+
+![Colaboración](https://img.shields.io/badge/Colaboración-2D3250?style=for-the-badge)
+
+</div>
 
 Estoy interesado en colaborar en proyectos relacionados con:
 
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/laptop-code.svg" width="16" height="16"/> Desarrollo de software
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/globe.svg" width="16" height="16"/> Aplicaciones web
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/robot.svg" width="16" height="16"/> Inteligencia Artificial
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/lock.svg" width="16" height="16"/> Ciberseguridad
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/cloud.svg" width="16" height="16"/> Cloud & DevOps
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/chart-pie.svg" width="16" height="16"/> Sistemas empresariales
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="16" height="16"/> Startups tecnológicas
-* <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/puzzle-piece.svg" width="16" height="16"/> Automatización
+* Desarrollo de software
+* Aplicaciones web
+* Inteligencia Artificial
+* Ciberseguridad
+* Cloud & DevOps
+* Sistemas empresariales
+* Startups tecnológicas
+* Automatización
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/envelope.svg" width="22" height="22"/> Contacto
+<div align="center">
+
+![Contacto](https://img.shields.io/badge/Contacto-2D3250?style=for-the-badge)
+
+</div>
 
 <div align="center">
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/laptop-code.svg" width="18" height="18"/> **Software Development**
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/rocket.svg" width="18" height="18"/> **Nexus Digital Solutions**
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/map-location-dot.svg" width="18" height="18"/> **Panamá**
+[![Website](https://img.shields.io/badge/Nexus_Digital_Solutions-00BFA5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nexusdigitalsolutions.group/)
+[![Email](https://img.shields.io/badge/nexusdigitalsolutions.pa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexusdigitalsolutions.pa@gmail.com)
+
+**Software Development** • **Nexus Digital Solutions** • **Panamá**
 
 </div>
 
@@ -340,6 +415,6 @@ Estoy interesado en colaborar en proyectos relacionados con:
 
 <div align="center">
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/solid/bolt.svg" width="18" height="18"/> Code. Build. Automate. Improve.
+### ⚡ Code. Build. Automate. Improve.
 
 </div>
